@@ -1,0 +1,1 @@
+curl -u username:password -X POST "https://xxxxxx.com/api/v0/meta/settings" -H "accept: application/json" -H "content-type: application/json" -d "{ \"readOnlyRegistry\" : true }"
